@@ -1,0 +1,16 @@
+h1{
+    color:slateblue; 
+    text-align:center;
+}
+h2{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color:brown;
+    text-align: center;
+}
+h3{
+    color: darkgreen;
+}
