@@ -44,7 +44,7 @@ h1.an{
 }
 .contenedor{
     width: 120rem;
-    margin: top 100px; ;
+    margin-top: 100px;
 }
 .navegacion-principal{
 background-color: var(--primo);
