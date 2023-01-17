@@ -2,7 +2,11 @@
     --blanco:#ffffff;
     --oscuro:#212121;
     --primario:#ffc107;
-    
+    --secundario:#AA00AA;
+    --terciario:#AA00AA;
+    --primo:#00AAAA;
+
+
     
     }
 h1{
@@ -24,8 +28,9 @@ h3{
 }
 h1 samp{
 
-color:rgb(214, 252, 0);
+color:var(--oscuro);
 font-size: 2rem;
+font-family: 'Krub', sans-serif;
 }
 html{
     font-size: 1rem;
