@@ -1,9 +1,16 @@
+:root{
+    --blanco:#ffffff;
+    --oscuro:#212121;
+    --primario:#ffc107;
+    
+    }
 h1{
-    color:slateblue; 
+    color: var(--oscuro); 
     text-align:center;
 }
+
 h2{
-    color: red;
+    color:var(--primario);
     text-align: center;
     text-transform: uppercase;
 }
