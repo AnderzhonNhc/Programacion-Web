@@ -42,15 +42,15 @@ h1.an{
     color:rgb(21, 221, 64); 
     text-align:center;
 }
+.nav-bg{
+    background-color: var(--primario);
+
+    }
 .Contenedor{
     width: 120rem;
     margin:0% auto 0% auto;
 }
 .navegacion-principal{
-background-color: var(--oscuro);
+background-color: var(--primo);
 
 }
-.nav-bg{
-    background-color: var(--primario);
-    
-    }
