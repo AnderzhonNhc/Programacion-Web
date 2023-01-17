@@ -44,10 +44,10 @@ h1.an{
 }
 .Contenedor{
     width: 120rem;
-    margin: 10px 3px 30px 5px;
+    margin:0% auto 0% auto;
 }
 .navegacion-principal{
-background-color: var(--primo);
+background-color: var(--oscuro);
 
 }
 .nav-bg{
