@@ -42,6 +42,10 @@ h1.an{
     color:rgb(21, 221, 64); 
     text-align:center;
 }
+.contenedor{
+    width: 120rem;
+}
 .navegacion-principal{
 background-color: var(--primo);
+
 }
