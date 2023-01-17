@@ -29,8 +29,9 @@ h3{
 h1 samp{
 
 color:var(--oscuro);
-font-size: 2rem;
+font-size: 3.8rem;
 font-family: 'Krub', sans-serif;
+
 }
 html{
     font-size: 1rem;
