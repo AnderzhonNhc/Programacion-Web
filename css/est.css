@@ -3,15 +3,11 @@
     --oscuro:#212121;
     --primario:#ffc107;
     --secundario:#AA00AA;
-    --terciario:#AA00AA;
-    --primo:#00AAAA;
+    --terciario:#008080;
+    --primo:#FF9800;
     
     }
-h1{
-    color: var(--oscuro); 
-    text-align:center;
-    font-family: 'Krub', sans-serif;
-}
+
 
 h2{
     color:var(--primario);
@@ -25,32 +21,40 @@ p{
 h3{
     color: darkgreen;
 }
-h1 samp{
-
+h1{
 color:var(--oscuro);
-font-size: 3.8rem;
+text-align:center;
+font-size:3.8rem;
 font-family: 'Krub', sans-serif;
 
 }
+
+samp{
+    font-size:large;  
+}
+
 html{
-    font-size: 1rem;
+    font-size: 66.6%;
 }
 body{
-    font: size 16rem; ;
-}
-h1.an{
-    color:rgb(21, 221, 64); 
-    text-align:center;
+    font-size: 16px;
 }
 .nav-bg{
     background-color: var(--primario);
-
-    }
+ }
 .Contenedor{
     width: 120rem;
-    margin:0 auto 0 auto;
+    margin: 0rem auto 0rem auto;
 }
 .navegacion-principal{
-background-color: var(--primo);
+background-color: var(--terciario);
+padding:1rem;
+display: flex;
+justify-content:space-between;
 
 }
+.navegacion-principal a {
+    background-color: var();
+    color: var(--blanco);
+    text-decoration: none;
+    }
