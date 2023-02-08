@@ -29,7 +29,7 @@ font-family: 'Krub', sans-serif;
 
 }
 
-samp{
+.titulo samp{
     font-size:large;  
 }
 
@@ -58,3 +58,6 @@ justify-content:space-between;
     color: var(--blanco);
     text-decoration: none;
     }
+
+
+    
