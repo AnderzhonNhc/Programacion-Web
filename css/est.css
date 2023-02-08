@@ -29,12 +29,13 @@ font-family: 'Krub', sans-serif;
 
 }
 
-.titulo samp{
+ samp{
     font-size:large;  
 }
 
 html{
-    font-size: 66.6%;
+    font-size: 62.5%;
+
 }
 body{
     font-size: 16px;
@@ -43,7 +44,7 @@ body{
     background-color: var(--primario);
  }
 .Contenedor{
-    width: 120rem;
+    width: 133rem;
     margin: 0rem auto 0rem auto;
 }
 .navegacion-principal{
@@ -57,7 +58,20 @@ justify-content:space-between;
     background-color: var();
     color: var(--blanco);
     text-decoration: none;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
     }
-
-
+    .navegacion-principal a:hover{
+        background-color: var(--primario);
+        color: var(--oscuro) ;
+    }
+    @media (min-width:480px) {
+        body{
+            background-color:blue;
+        }
+    }
+    @media (min-width:580px) {
+   
+    }
     
